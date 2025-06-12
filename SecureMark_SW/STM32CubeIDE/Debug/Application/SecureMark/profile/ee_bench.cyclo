@@ -1,0 +1,15 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:95:1:ee_bench_sha	8
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:145:1:ee_bench_cipher	21
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:249:1:ee_core_ecdh	4
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:288:1:ee_bench_ecdh	6
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:325:1:ee_core_ecdsa_sign	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:360:1:ee_bench_ecdsa_sign	5
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:402:1:ee_core_ecdsa_verify	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:435:1:ee_core_rsa_verify	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:468:1:ee_bench_verify	11
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:552:1:ee_core_entropy_latency	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:576:1:ee_bench_var01	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:585:1:ee_bench_entropy_latency	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:594:1:ee_core_drbg_throughput	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:618:1:ee_bench_drbg_throughput	6
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_bench.c:645:1:ee_bench_parse	39

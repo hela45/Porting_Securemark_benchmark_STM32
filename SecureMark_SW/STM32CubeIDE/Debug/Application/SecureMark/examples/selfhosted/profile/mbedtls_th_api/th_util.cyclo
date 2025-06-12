@@ -1,0 +1,7 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:18:1:th_pre	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:23:1:th_post	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:28:1:th_buffer_initialize	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:33:1:th_buffer_address	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:39:1:th_buffer_size	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:53:1:mbedtls_fake_random	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_util.c:73:1:th_profile_initialize	1

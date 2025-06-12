@@ -1,0 +1,7 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:20:1:ee_hexdec	9
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:53:1:ee_srand	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:60:1:ee_rand	1
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:69:1:ee_printmem	7
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:114:1:ee_hextotxt	2
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:128:1:ee_printmemline	2
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/profile/ee_util.c:148:1:ee_fix_endian32	2
