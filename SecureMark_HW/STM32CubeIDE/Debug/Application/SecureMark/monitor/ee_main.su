@@ -1,0 +1,3 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/monitor/ee_main.c:34:1:ee_serial_callback	16	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/monitor/ee_main.c:61:1:ee_serial_command_parser_callback	24	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/monitor/ee_main.c:95:1:ee_main	8	static

@@ -1,0 +1,15 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:95:1:ee_bench_sha	8
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:142:1:ee_bench_cipher	21
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:246:1:ee_core_ecdh	4
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:285:1:ee_bench_ecdh	6
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:322:1:ee_core_ecdsa_sign	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:357:1:ee_bench_ecdsa_sign	5
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:399:1:ee_core_ecdsa_verify	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:432:1:ee_core_rsa_verify	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:465:1:ee_bench_verify	11
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:549:1:ee_core_entropy_latency	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:573:1:ee_bench_var01	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:582:1:ee_bench_entropy_latency	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:591:1:ee_core_drbg_throughput	3
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:615:1:ee_bench_drbg_throughput	6
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_bench.c:642:1:ee_bench_parse	39

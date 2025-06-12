@@ -1,0 +1,6 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:17:1:th_chachapoly_create	16	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:25:1:th_chachapoly_init	32	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:42:1:th_chachapoly_deinit	16	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:49:1:th_chachapoly_encrypt	40	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:73:1:th_chachapoly_decrypt	40	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_chachapoly.c:97:1:th_chachapoly_destroy	16	static

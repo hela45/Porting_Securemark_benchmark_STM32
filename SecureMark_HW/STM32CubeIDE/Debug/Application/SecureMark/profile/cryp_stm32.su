@@ -1,0 +1,3 @@
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/cryp_stm32.c:46:6:cryp_zeroize	24	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/cryp_stm32.c:63:6:HAL_CRYP_MspInit	24	static
+C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/cryp_stm32.c:102:6:HAL_CRYP_MspDeInit	16	static
