@@ -13,8 +13,7 @@ Release/
 *.o
 *.d
 *.su
-*.ioc
-*.mx
+
 
 # IDE-specific
 *.launch
