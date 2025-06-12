@@ -1,6 +1,0 @@
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:26:1:th_ecdsa_create	32	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:82:1:th_ecdsa_destroy	16	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:90:1:th_ecdsa_get_public_key	48	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:115:1:th_ecdsa_set_public_key	208	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:156:1:th_ecdsa_sign	72	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/th_ecdsa.c:201:1:th_ecdsa_verify	40	static

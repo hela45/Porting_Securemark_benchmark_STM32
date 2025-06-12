@@ -1,6 +1,0 @@
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:30:1:th_monitor_initialize	4	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:39:1:th_timestamp_initialize	8	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:83:1:th_timestamp	4	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:117:1:th_serialport_initialize	4	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:134:1:th_printf	16	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/monitor/th_api/th_lib.c:149:1:th_command_ready	16	static

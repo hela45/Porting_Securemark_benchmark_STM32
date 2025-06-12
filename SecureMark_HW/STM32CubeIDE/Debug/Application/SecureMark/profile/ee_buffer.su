@@ -1,5 +1,0 @@
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_buffer.c:18:1:ee_buffer_add	16	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_buffer.c:31:1:ee_buffer_rewind	4	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_buffer.c:37:1:ee_buffer_fill	24	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_buffer.c:49:1:ee_buffer_print	24	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/ee_buffer.c:82:1:ee_buffer_parse	32	static

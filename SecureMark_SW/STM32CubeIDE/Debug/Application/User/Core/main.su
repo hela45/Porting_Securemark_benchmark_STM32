@@ -1,4 +1,0 @@
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/Core/Src/main.c:88:5:main	88	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/Core/Src/main.c:152:6:SystemClock_Config	120	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/Core/Src/main.c:206:1:__io_putchar	16	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/Core/Src/main.c:219:6:Error_Handler	4	static,ignoring_inline_asm

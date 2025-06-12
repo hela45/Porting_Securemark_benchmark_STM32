@@ -1,6 +1,0 @@
-../../securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/include/mbedtls/error.h:152:19:mbedtls_error_add	24	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/library/pkcs12.c:44:12:pkcs12_parse_pbe_params	40	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/library/pkcs12.c:80:12:pkcs12_pbe_derive_key_iv	344	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/library/pkcs12.c:124:5:mbedtls_pkcs12_pbe	176	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/library/pkcs12.c:183:13:pkcs12_fill_buffer	32	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/SecureMark_SW/securemark-v2-main/examples/selfhosted/profile/mbedtls_th_api/redist/mbedtls-3.0.0/library/pkcs12.c:198:5:mbedtls_pkcs12_derivation	656	static

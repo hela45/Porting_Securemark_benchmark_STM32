@@ -1,7 +1,0 @@
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:49:6:mbedtls_sha256_init	16	static,ignoring_inline_asm
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:69:6:mbedtls_sha256_free	16	static,ignoring_inline_asm
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:94:6:mbedtls_sha256_clone	16	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:103:5:mbedtls_sha256_starts_ret	24	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:143:5:mbedtls_internal_sha256_process	24	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:184:5:mbedtls_sha256_update_ret	40	static
-C:/Users/helat/STM32CubeIDE/workspace_1.18.1/PFA_version2.0_securemark/securemark-v2-main/securemark-v2-main/profile/sha256_alt.c:294:5:mbedtls_sha256_finish_ret	32	static
