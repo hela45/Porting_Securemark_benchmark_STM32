@@ -1,6 +1,7 @@
 # STM32CubeMX project files
 *.ioc
 *.mxproject
+
 # CubeIDE build output
 /build/
 Debug/
