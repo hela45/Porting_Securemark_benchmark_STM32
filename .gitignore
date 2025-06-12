@@ -1,0 +1,32 @@
+# STM32CubeMX project files
+*.ioc
+
+# CubeIDE build output
+/build/
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# IDE-specific
+*.launch
+*.project
+*.cproject
+.settings/
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup/swap files
+*~
+*.swp
+
